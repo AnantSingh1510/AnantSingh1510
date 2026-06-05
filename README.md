@@ -1,6 +1,6 @@
-## > Building systems that are probably more complicated than they need to be.
+# > Building systems that are probably more complicated than they need to be.
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anant.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnantSingh1510) 
 
 # Tech Stack:
